@@ -18,4 +18,3 @@ private:
 	std::list<CMyThread*>m_list;
 	CMyMutex m_mutex;
 };
-
